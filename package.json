@@ -3,7 +3,7 @@
     "sample2-1-0-0": "jdeploy-bundle/jdeploy.js"
   },
   "author": "",
-  "description": "Parent for JavaFX starter project",
+  "description": "JXBrowser test",
   "main": "index.js",
   "preferGlobal": true,
   "repository": "",
@@ -13,7 +13,7 @@
     "javaVersion": "17",
     "jar": "target/sample-1.0.0.jar",
     "javafx": true,
-    "title": "sample",
+    "title": "JXBrowser Test",
     "mavenDependencies": [
       "com.teamdev.jxbrowser:jxbrowser-cross-platform:7.29:pom",
       "com.teamdev.jxbrowser:jxbrowser-javafx:7.29"
@@ -27,7 +27,7 @@
     "shelljs": "^0.8.4"
   },
   "license": "ISC",
-  "name": "sample",
+  "name": "jxbrowser-test",
   "files": [
     "jdeploy-bundle"
   ],
