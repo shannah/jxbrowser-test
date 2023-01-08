@@ -1,6 +1,6 @@
 {
   "bin": {
-    "sample2-1-0-0": "jdeploy-bundle/jdeploy.js"
+    "jxbrowser-test": "jdeploy-bundle/jdeploy.js"
   },
   "author": "",
   "description": "JXBrowser test",
