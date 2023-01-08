@@ -2,7 +2,7 @@
   "bin": {
     "jxbrowser-test": "jdeploy-bundle/jdeploy.js"
   },
-  "author": "",
+  "author": "Steve Hannah",
   "description": "JXBrowser test",
   "main": "index.js",
   "preferGlobal": true,
