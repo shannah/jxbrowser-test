@@ -15,7 +15,8 @@
     "javafx": true,
     "title": "sample",
     "mavenDependencies": [
-      "com.teamdev.jxbrowser:jxbrowser-cross-platform:7.29:pom"
+      "com.teamdev.jxbrowser:jxbrowser-cross-platform:7.29:pom",
+      "com.teamdev.jxbrowser:jxbrowser-javafx:7.29"
     ],
     "mavenRepositories": [
       "com.teamdev:https://europe-maven.pkg.dev/jxbrowser/releases"
