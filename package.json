@@ -10,17 +10,23 @@
   "version": "1.0.0",
   "jdeploy": {
     "jdk": false,
-    "javaVersion": 17,
-    "jar": "target/classes/sample2-1.0.0.jar",
+    "javaVersion": "17",
+    "jar": "target/sample-1.0.0.jar",
     "javafx": true,
-    "title": "sample2"
+    "title": "sample",
+    "mavenDependencies": [
+      "com.teamdev.jxbrowser:jxbrowser-cross-platform:7.29:pom"
+    ],
+    "mavenRepositories": [
+      "com.teamdev:https://europe-maven.pkg.dev/jxbrowser/releases"
+    ]
   },
   "dependencies": {
     "njre": "^0.2.0",
     "shelljs": "^0.8.4"
   },
   "license": "ISC",
-  "name": "sample2",
+  "name": "sample",
   "files": [
     "jdeploy-bundle"
   ],
